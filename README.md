@@ -1,2 +1,1 @@
-This module provides a basic (save) file creation, loading and deletion interface, with (open source) secure encoding.
-It also has ojects/functions for displaying basic UI elements, like sliders, (toggle)buttons, and choice lists.
+This module has functios for a displaying basic UI elements using the terminal, with the screen_display module.
