@@ -1,0 +1,4 @@
+- using the ANSI canvas
+- arrow keys to move
+- write over text where the cursor is
+- cursor blinks
